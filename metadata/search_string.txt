@@ -2,7 +2,6 @@
 ---
 ("Attention Deficit Disorder with Hyperactivity"[Mesh] OR ADHD[tiab] OR ADD[tiab] OR attention deficit*[tiab] OR hyperactiv*[tiab] OR hyperkinetic*[tiab] OR minimal brain deficit*[tiab] OR minimal brain dysfunction*[tiab])
 AND
-
 (("Psychotherapy"[Mesh] OR psychotherap*[tiab] OR psychological therap*[tiab] OR psychological intervent*[tiab] OR psychoeduca*[tiab] OR mentoring*[tiab] OR coaching*[tiab] OR mindful*[tiab] OR relax*[tiab] OR meditat*[tiab])
  OR  
 ((parent*[tiab] OR mother[tiab] OR father[tiab] OR teacher*[tiab] OR school*[tiab]) 
@@ -20,12 +19,9 @@ OR
 ((skill*[tiab] OR organization*[tiab] OR organisation*[tiab] OR planning*[tiab] OR play*[tiab]) 
 AND 
 (train*[tiab] OR intervention*[tiab] OR program*[tiab])))
-
 AND 
-
 ("Adolescent"[Mesh] OR "Child"[Mesh] OR child*[tiab] OR school*[tiab] OR infan*[tiab] OR adolescen*[tiab] OR pediatri*[tiab] OR paediatr*[tiab] OR boy[tiab] OR boys[tiab] OR boyhood[tiab] OR girl[tiab] OR girls[tiab] OR girlhood[tiab] OR youth[tiab] OR youths[tiab] OR teen[tiab] OR teens[tiab] OR teenage*[tiab] OR puberty[tiab] OR preschool*[tiab] OR toddler*[tiab] OR juvenile*[tiab] OR kids[tiab])
 AND  
-
 ("Controlled Clinical Trial" [Publication Type] OR "Randomized Controlled Trials as Topic"[Mesh] OR  "Follow-Up Studies"[Mesh] OR follow-up[tiab] OR followup[tiab] OR control group*[tiab] OR "Random Allocation"[Mesh] OR random*[tiab] OR trial[ti])
 
 **EMBASE EMBASE.com (combine separate parts on website)**
@@ -33,7 +29,6 @@ AND
 ('attention deficit disorder'/exp OR (ADHD OR ADD OR ‘attention deficit*’
 OR hyperactiv* OR hyperkinetic* OR ‘minimal brain deficit*’ OR ‘minimal brain dysfunction*’):ab,ti)
 AND
-
 ('psychotherapy'/exp OR (psychotherap* OR ‘psychological therap*’ OR ‘psychological intervent*’ OR psychoeduca* OR mentoring* OR coaching* OR mindful* OR relax*):ab,ti)
  OR  
 ((((parent* OR mother OR father OR teacher* OR school*) 
@@ -51,14 +46,13 @@ OR
 ((skill* OR organization* OR organisation* OR planning* OR play*) 
 AND 
 (train* OR intervention* OR program*))):ab,ti)
-
 AND 
 ('juvenile'/exp OR (child* OR school* OR infan* OR adolescen* OR pediatri* OR paediatr* OR boy OR boys OR boyhood OR girl OR girls OR girlhood OR youth OR youths OR teen OR teens OR teenage* OR puberty OR preschool* OR toddler* OR juvenile* OR kids):ab,ti)
-
 AND  
 ('controlled clinical trial'/exp OR 'randomization'/exp OR (‘control group*’ OR random*):ab,ti OR trial:ti)
 
 **EBSCO PsycINFO (add separate parts)**
+---
 (DE "Attention Deficit Disorder" OR DE "Attention Deficit Disorder with Hyperactivity" OR ADHD OR ADD OR “attention deficit*” OR hyperactiv* OR hyperkinetic* OR “minimal brain deficit*” OR “minimal brain dysfunction*”)
 AND
 (DE "Psychotherapy" OR DE "Child Psychotherapy" OR DE "Play Therapy" OR  DE "Behavior Therapy" OR DE "Aversion Therapy" OR DE "Conversion Therapy" OR DE "Dialectical Behavior Therapy" OR DE "Exposure Therapy" OR DE "Implosive Therapy" OR DE "Reciprocal Inhibition Therapy" OR DE "Response Cost" OR DE "Systematic Desensitization Therapy" AND DE "Cognitive Behavior Therapy" OR DE "Cognitive Therapy" OR DE "Group Psychotherapy" OR DE "Neurotherapy" OR psychotherap* OR “psychological therap*” OR “psychological intervent*” OR psychoeduca* OR mentoring* OR coaching* OR mindful* OR relax*)
@@ -83,7 +77,8 @@ AND
 AND  
 (“control group*” OR random* OR "controlled trial" OR "controlled study" OR "experimental study" OR "experimental design" OR TI trial)
 
-EBSCO CINAHL (separate parts)
+**EBSCO CINAHL (separate parts)**
+---
 (MH "Attention Deficit Hyperactivity Disorder" OR "Attention Deficit Disorder with Hyperactivity" OR ADHD OR ADD OR “attention deficit*” OR hyperactiv* OR hyperkinetic* OR “minimal brain deficit*” OR “minimal brain dysfunction*”)
 AND
 (MH "Psychotherapy+"  OR psychotherap* OR “psychological therap*” OR “psychological intervent*” OR psychoeduca* OR mentoring* OR coaching* OR mindful* OR relax*)
@@ -108,10 +103,10 @@ AND
 AND  
 (MH "Clinical Trials+" OR “control group*” OR random* OR "controlled trial" OR "controlled study" OR "experimental study" OR "experimental design" OR TI trial) 
 
-EBSCO ERIC (separate parts)
+**EBSCO ERIC (separate parts)**
+---
 (DE "Attention Deficit Disorder" OR DE "Attention Deficit Hyperactivity Disorder"  OR ADHD OR ADD OR “attention deficit*” OR hyperactiv* OR hyperkinetic* OR “minimal brain deficit*” OR “minimal brain dysfunction*”)
 AND
-
 (DE "Psychotherapy" OR psychotherap* OR “psychological therap*” OR “psychological intervent*” OR psychoeduca* OR mentoring* OR coaching* OR mindful* OR relax*)
  OR  
 ((parent* OR mother OR father OR teacher* OR school*) 
@@ -130,16 +125,14 @@ OR
 AND 
 (train* OR intervention* OR program*))
 AND 
-
 (child* OR school* OR infan* OR adolescen* OR pediatri* OR paediatr* OR boy OR boys OR boyhood OR girl OR girls OR girlhood OR youth OR youths OR teen OR teens OR teenager* OR puberty OR preschool* OR toddler* OR juvenile* OR kids))
 AND  
-
 (“control group*” OR random* OR "controlled trial" OR "controlled study" OR "experimental study" OR "experimental design" OR TI trial)
 
-Web of Science (via advanced search)
+**Web of Science (via advanced search)**
+---
 (TS=("Attention Deficit Disorder with Hyperactivity" OR ADHD OR ADD OR “attention deficit*” OR hyperactiv* OR hyperkinetic* OR “minimal brain deficit*” OR “minimal brain dysfunction*”))
 AND
-
 (TS=(psychotherap* OR psychotherap* OR “psychological therap*” OR “psychological intervent*” OR psychoeduca* OR mentoring* OR coaching* OR mindful* OR relax*
  OR  
 ((parent* OR mother OR father OR teacher* OR school*) 
@@ -162,10 +155,10 @@ AND
 AND  
 (TS=(“clinical trial*” OR  “control group*” OR random* OR "controlled trial" OR "controlled study" OR "experimental study" OR "experimental design"))
 
-Cochrane Central register of Controlled Trials (CENTRAL) 
+**Cochrane Central register of Controlled Trials (CENTRAL)**
+---
 ("Attention Deficit Disorder with Hyperactivity" OR ADHD OR ADD OR “attention deficit*” OR hyperactiv* OR hyperkinetic* OR “minimal brain deficit*” OR “minimal brain dysfunction*”)
 AND
-
 ((psychotherap* OR “psychological therap*” OR “psychological intervent*” OR psychoeduca* OR mentoring* OR coaching* OR mindful* OR relax*)
  OR  
 ((parent* OR mother OR father OR teacher* OR school*) 
@@ -184,6 +177,5 @@ OR
 AND 
 (train* OR intervention* OR program*)))
 AND 
-
 (child* OR school* OR infan* OR adolescen* OR pediatri* OR paediatr* OR boy OR boys OR boyhood OR girl OR girls OR girlhood OR youth OR youths OR teen OR teens OR teenage* OR puberty OR preschool* OR toddler* OR juvenile* OR kids)
  
