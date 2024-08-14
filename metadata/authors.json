@@ -1,14 +1,38 @@
 [
     {
-        "name": "Pim Cuijpers",
-        "orcid": "0000-0001-5497-2743"
+        "name": "Rianne Hornstra",
+        "orcid": "0000-0001-8797-8973"
     },
     {
-        "name": "Clara Miguel",
-        "orcid": "0000-0001-5563-5896"
+        "name": "Annabeth P. Groenman",
+        "orcid": "0000-0002-8394-6605"
     },
     {
-        "name": "Eirini Karyotaki",
-        "orcid": "0000-0002-0071-2599"
+        "name": "Saskia van der Oord",
+        "orcid": "0000-0003-2771-0187"
+    },
+    {
+        "name": "Marjolein Luman",
+        "orcid": "0000-0002-1539-2831"
+    },
+    {
+        "name": "Tycho J. Dekkers",
+        "orcid": "0000-0001-8572-5606"
+    },
+    {
+        "name": "Lianne van der Veen-Mulders",
+        "orcid": "0000-0002-1203-8685"
+    },
+    {
+        "name": "Pieter J. Hoekstra",
+        "orcid": "0000-0003-1018-9954"
+    },
+    {
+        "name": "Constantina Psyllou ",
+        "orcid": ""
+    },
+    {
+        "name": "Barbara J. van den Hoofdakker",
+        "orcid": "0000-0001-9570-9976"
     }
 ]
