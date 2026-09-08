@@ -1,24 +1,20 @@
 {
-    "database.hits": 21976,
-    "database.hits.duplicates.removed": 16701,
-    "records.screened": 16701,
-    "full.text.assessed.for.eligibility": 2553,
+    "database.hits": 23023,
+    "additional.records":3,
+    "database.hits.duplicates.removed": 13053,
+    "records.screened": 13053,
+    "full.text.assessed.for.eligibility": 330,
     "full.text.excluded.reasons": 
     {
-        "Companion papers": 573,
-        "Depression is not an inclusion criterion": 275,
-        "Dissertations": 19,
-        "Effect sizes cannot be estimated": 64,
-        "Maintenenance trial": 122,
-        "No control condition": 57,
-        "No psychotherapy for depression": 222,
-        "No random assignment": 50,
-        "Not available": 46,
-        "Other": 169,
-        "Other language": 19,
-        "Protocol paper": 206,
-        "Stepped care/management program": 27,
-        "Studies with adolescents": 43
+        "Other publication type": 72,
+        "No RCT": 52,
+        "Other intervention": 48,
+        "Re-analysis": 38,
+        "Other population": 29,
+        "Foreign language": 14,
+        "Medication": 20,
+        "Other control group": 10,
+        "Other outcome": 15
     },
-    "included": 661
+    "included": 32
 }

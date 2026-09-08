@@ -1,0 +1,26 @@
+{
+    "population": {
+        "inclusion": ["Children and adolescents with ADHD under the age of 18 years meeting clinical cut-offs on ADHD questionnaires or meeting DSM-III (American Psychiatric Association, 1980), DSM-IV (American Psychiatric Association, 1994), DSM-IV-TR (American Psychiatric Association, 2000), or DSM-5 (American Psychiatric Association, 2013) criteria for ADHD on a (semi)structured interview"],
+        "exclusion": ["Studies primarily aimed at samples with comorbid ADHD"]
+    },
+    "intervention": {
+        "inclusion": ["Behavioral parent or teacher training, multimodal intervention (i.e., a combination of parent, teacher, and/or child training)"],
+        "exclusion": []
+    },
+    "comparison": {
+        "inclusion": ["Control condition was either (i) an active control treatment (i.e., a treatment arm that controls for nonspecific effects of the intervention); (ii) a treatment as usual; (iii) a no treatment/waitlist control. If trials had two control conditions, the condition with the highest quality (defined above i > ii > iii) was selected as the comparison."],
+        "exclusion": ["Medication or intervention arms in which medication was (part of) the treatment"]
+    },
+    "outcome": {
+        "inclusion": ["Total ADHD symptoms, separate symptoms of inattention and hyperactivity/impulsivity, and behavioral problems (symptoms of oppositional defiant disorder [ODD], or conduct disorder [CD])"],
+        "exclusion": []
+    },
+    "study_design": {
+        "inclusion": ["Randomized controlled trials (RCTs)"],
+        "exclusion": []
+    },
+    "other": {
+        "inclusion": [],
+        "exclusion": []
+    }
+}
