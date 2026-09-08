@@ -1,6 +1,6 @@
 ## **The `data-adhd-psyctr` dataset** 📊
 
-[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.8115993-blue">](https://doi.org/10.5281/zenodo.8115993) **UPDATE**
+[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22663728-blue">](https://doi.org/10.5281/zenodo.22663728) **UPDATE**
 
 The `data-adhd-psyctr` dataset is a **meta-analytic research domain** (MARD; see the [MARD framework paper](https://docs.metapsy.org/uploads/ebmental-2022-300509.pdf)), part of the [Metapsy project](https://www.metapsy.org/). It contains study information and effect size data from **randomized trials on behavioral parent or teacher training** for children and adolescents with ADHD **under the age of 18 years** ([Hornstra et al., 2022](https://acamh.onlinelibrary.wiley.com/doi/full/10.1111/camh.12561)).
 
